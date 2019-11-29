@@ -1,0 +1,2 @@
+include ':app', ':firstlibrary', ':secondlibrary'
+rootProject.name='JitPack Test'
